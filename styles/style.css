@@ -136,7 +136,7 @@ body{
     .header__menu{
         display: flex;
         justify-content: center;
-        gap: 1rem;
+        gap: 2.5rem;
     }
 
     .presentacion{
