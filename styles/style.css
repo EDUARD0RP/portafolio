@@ -135,6 +135,7 @@ body{
 
     .header__menu{
         justify-content: center;
+        gap: 5rem;
     }
 
     .presentacion{
