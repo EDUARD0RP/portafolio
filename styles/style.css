@@ -134,8 +134,9 @@ body{
     }
 
     .header__menu{
+        display: flex;
         justify-content: center;
-        gap: 5rem;
+        gap: 1rem;
     }
 
     .presentacion{
@@ -147,9 +148,5 @@ body{
         width: auto;
     }
 
-    .header__menu{
-        display: flex;
-        gap: 75px;
-    
-    }
+
 }
